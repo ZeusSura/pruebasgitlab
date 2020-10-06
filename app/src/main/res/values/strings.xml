@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AplicacionToolBar</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed ipsumristique laoreet. Sed vel sodales nulla, vel dignissim odio.</string>
+    <string name="toolbarTitleMain">Toolbar desde kotlin</string>
+    <string name="favorito">Favorito</string>
+    <string name="pelicula">pelicula</string>
+    <string name="toolbarTitleSegunda">Segunda Activity</string>
+    <string name="search">Search</string>
+    <string name="compartir">Compartir</string>
+</resources>
